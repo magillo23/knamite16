@@ -1,0 +1,6 @@
+Comandos Git
+1. git status: verficamos si existen archivos que aun falta subir "no comits yet"
+2. git add: agregamos el archivo que ira al repositorio -- git add hola.txt
+3.git commit -m "mensaje": agrega el archivo defenitivamente
+4.git push -u "nombre repositorio-origin": con este comando ya le mandamos definitivamente a nuestro repositorio ejemplo--  git push -u origin master 
+Nota: master es lo que se asigna automaticamente al repositorio local
